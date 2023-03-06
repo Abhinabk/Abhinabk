@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinabk
-- 👀 I’m interested in anything python related
-- 🌱 I’m currently learning deeplearning stuff
+- 👀 I’m interested in anything web dev related
+- 🌱 I’m currently learning ndoejs stuff
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/abhinab-krishnatraya-808129203/
 
