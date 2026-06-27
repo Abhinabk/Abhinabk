@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Abhinabk
-- 👀 I’m interested in anything web dev related
-- 🌱 I’m currently learning ndoejs stuff
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/abhinab-krishnatraya-808129203/
+## Hi, I'm Abhinab 👋
 
-<!---
-Abhinabk/Abhinabk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data engineer from India. I build end-to-end data pipelines —
+ingestion, transformation, orchestration, and the dashboards on top.
+
+🔭 **Currently building:** NE Pipeline — a medallion-architecture ELT pipeline
+(Bronze → Silver → Gold) for Northeast India train-delay analytics, enriched
+with per-station weather data.
+
+🛠️ **Stack:** Python · SQL · dbt · DuckDB / MotherDuck · Prefect · S3 · Parquet · Superset
+
+
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/abhinab-krishnatraya-808129203/) · abhinabk123@gmail.com
